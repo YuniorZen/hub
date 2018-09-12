@@ -40,6 +40,7 @@ let  getFiles=function(dir,exclude) {
     })
     //打印项目用到的所有字型集
     console.log(content.join(''));
+    
 })('./src'); //相对node运行目录下的项目地址
 
 
