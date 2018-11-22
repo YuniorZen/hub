@@ -1,4 +1,29 @@
+局部滚动不影响浏览滚动
+~function scrollUnique(id) {
+    let contain=document.getElementById(id),
+		eventType = document.mozHidden !== undefined?'DOMMouseScroll':'mousewheel';
 
+	handleEvent=function(event) {
+		event=event||window.event;
+		let target=contain,
+			scrollTop = target.scrollTop,
+			scrollHeight = target.scrollHeight,
+			height = target.clientHeight;
+		
+		let delta = (event.wheelDelta) ? event.wheelDelta : -(event.detail || 0);        
+		console.log(`${delta}---${scrollTop}---${scrollHeight}---${height}---${(delta > 0 && scrollTop <= delta) || (delta < 0 && scrollHeight - height - scrollTop <= -1 * delta)}`)
+		if ((delta > 0 && scrollTop <= delta) || delta < 0 && (scrollHeight - height-scrollTop) <= -1 * delta) {			
+			target.scrollTop = delta > 0? 0: scrollHeight;
+			window.event?event.returnValue=false:event.preventDefault()
+		}        
+	}
+	
+	if(contain.addEventListener){
+		contain.addEventListener(eventType,handleEvent,false)
+	}else{
+		contain.attachEvent(''+eventType,handleEvent)
+	}
+}('rcs-message-list')
 
 //复制到剪切板跨浏览器 select_all_and_copy(document.getElementById('copy'))  ##http://www.seabreezecomputers.com/tips/copy2clipboard.htm
 function select_all_and_copy(el){
