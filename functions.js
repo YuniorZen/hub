@@ -1,3 +1,13 @@
+/* 滚动到页面顶部 */
+export const backTop=()=>{
+    let currentScroll = document.documentElement.scrollTop || document.body.scrollTop;
+    if (currentScroll > 0) {
+        window.requestAnimationFrame(backTop);
+        window.scrollTo (0,currentScroll - (currentScroll/5));
+    }
+}
+
+
 局部滚动不影响浏览滚动
 ~function scrollUnique(id) {
     let contain=document.getElementById(id),
