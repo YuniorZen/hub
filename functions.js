@@ -1,5 +1,35 @@
 
 /**
+ * 格式化日期时间 eg:2019-09-24 11:31:06
+ * @method formatDateTime
+ * 
+ * @params
+ * time  {Number}} 需要格式化的时间戳
+ * 
+ * @returns
+ * {String} 格式化的时间字符串
+ * 
+ * @author Yunior
+ * */
+export const formatDateTime = time => {
+    let date=new Date(time*1)
+    let year = date.getFullYear(),
+        month = date.getMonth() + 1,
+        day = date.getDate(),
+        hour = date.getHours(),
+        minute = date.getMinutes(),
+        second = date.getSeconds();
+
+    let formatNumber = n => {
+        n = n.toString()
+        return n[1] ? n : '0' + n
+    }
+  
+    return [year, month, day].map(formatNumber).join('-') + ' ' + [hour, minute, second].map(formatNumber).join(':')
+}
+  
+
+/**
  * 函数节流限制频次,每time毫秒只会执行一次callback函数
  * @method throttleFn
  * 
