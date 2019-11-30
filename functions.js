@@ -390,16 +390,39 @@ getFlashCode = function(src, ps, w, h, flashId, rm) {
 }
 
 
-//自动适应屏幕分辨率 通过rem相对单位
-(function(win){
-	var html= win.document.documentElement,
-		events= 'orientationchange' in win ? 'orientationchange' : 'resize',       
-		deals=function() {
-		  var w = html.clientWidth;
-		  html.style.fontSize = Math.floor(100 *(w /320))+ 'px';
-		};			
-	win.addEventListener(events, deals, false),deals();
-})(self);
+/*
+ * 按照设计稿宽高比例设定html字体，1rem=100px;
+ * @pargam win 窗口window对象
+ * @pargam option{
+        designWidth: 设计稿宽度/2，必须
+        designHeight: 设计稿高度/2，不传的话则比例按照宽度来计算，可选
+    }
+ * ps:请尽量第一时间运行此js计算字体
+ */
+!function(win, option) {
+    var designWidth = option.designWidth,
+        designHeight = option.designHeight || 0,
+        designFontSize = 100, //1rem=100px
+        root = document.documentElement;
+    
+    //返回root元素字体计算结果,根据宽度或高度最小的比例选择
+    var getFontSize=function() {
+        var scale = designHeight !== 0 ? Math.min(win.innerWidth / designWidth, win.innerHeight / designHeight) : win.innerWidth / designWidth;
+        return parseInt( scale * 10000 * designFontSize ) / 10000;
+    }
+    //设置root元素的fontsize
+    var setFontSize=function(){
+        root.style.fontSize=getFontSize()+'px';
+    }
+    
+    //横竖屏切换或resize改变fontSize，根据需要选择使用
+    win.addEventListener("orientationchange", setFontSize, false);
+    win.addEventListener("resize", setFontSize, false);
+    setFontSize();
+}(window, {
+    designWidth: 375,
+    designHeight: 667
+});
 
 
 //跨域 post提交 \获取数据 CORS   #### 安全 ie8+| x:https/http请求地址[#XDomainRequest发送请求地址的协议需与当前地址协议保持一致],b:JSON传递参数,fn:function(data){}回调函数
