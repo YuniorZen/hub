@@ -14,11 +14,14 @@ Created by Yunior  2014-6-14 17:37
 - [前端](#frontend)
 - [后端](#backend)
 - [区块链](#blockchain)
-- [机器学习](#machinelearn)
+- [人工智能](#AI)
 - [免费教程资源](#freebook)
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[如何在抖音上找到漂亮小姐姐？](https://github.com/wangshub/Douyin-Bot)   
+作者用 Python + ADB 做的 Bot。它会自动打开 APP 对视频截图，然后请求腾讯的 [人脸识别 API](http://ai.qq.com/)，当颜值大于门限值 `BEAUTY_THRESHOLD`时，点赞并关注，接着翻到下一页，重复进行该过程用来收集漂亮的小姐姐。
+
 [github-contributions-chart](https://github.com/sallar/github-contributions-chart)（[Demo](https://github-contributions.now.sh/)）  
 GitHub 用户主页有一张图，每一天就是一个小格子。你只要在这一天提交了代码，这个格子就是绿色。但是，这张图只显示过去的一年，即365个格子。   
 这个工具可以生成从你加入 GitHub 那天起的所有格子。
@@ -37,11 +40,27 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 设计 <a name="design"></a>
+
+
+[Cool Backgrounds](https://coolbackgrounds.io/)   
+![](https://www.wangbase.com/blogimg/asset/201806/bg2018060823.jpg)   
+自动生成背景图片的工具网站，现在提供五种风格，每种都可以定制，看上去赏心悦目。
+
 [Feature Icons](https://github.com/feathericons/feather)   
 一个开源图标库，提供一些简单漂亮的常用图标。
 
 
 ## 前端 <a name="frontend"></a>
+[wired-elements](https://github.com/wiredjs/wired-elements)   
+![](https://www.wangbase.com/blogimg/asset/201806/bg2018061427.jpg)   
+一个有手绘效果的网页组件库。但是，真正特别之处在于它的底层是 Web components，让我们看到了除了React/Vue之外，还有其他的路。
+
+[JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)   
+这个仓库收集了30多种算法的 JavaScript 实现。
+
+[tlsh-js](https://github.com/idealista/tlsh-js)   
+一个生成字符串哈希的 JavaScript 库。它的特点是，字符串越相似，或者重复同样的模式，生成的哈希也越相似，可以用来计算两个字符串的相似程度。
+
 [css-protips](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)   
 一个收集 CSS 使用技巧的库。
 
@@ -63,11 +82,18 @@ React Native 可以写桌面应用了，不必使用 Electron 了。有人写了
 
 ## 区块链 <a name="blockchain"></a>
 
-
-## 机器学习 <a name="machinelearn"></a>
-
+## 人工智能 <a name="AI"></a>
+[self-driving-toy-car](https://github.com/experiencor/self-driving-toy-car)   
+![](https://www.wangbase.com/blogimg/asset/201806/bg2018060821.jpg)   
+一个开源的自动驾驶玩具车，在小车上面绑了一个树莓派和摄像头。
 
 ## 免费教程资源 <a name="freebook"></a>
+[Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)   
+一本针对初学者的 Python 教程。
+
+[前端人工智能？TensorFlow.js 学会游戏通关](https://zhuanlan.zhihu.com/p/35451395)   
+作者使用 TensorFlow.js，让程序自动完成 Chrome 浏览器的内置小游戏"恐龙快跑"。
+
 [只有 13 台 DNS 根域名服务器原因](https://jaminzhang.github.io/dns/The-Reason-of-There-Is-Only-13-DNS-Root-Servers/)   
 我们经常听到 DNS 根域名服务有 13 台，那么是为什么呢？ 今天我们来深入了解下。
 
