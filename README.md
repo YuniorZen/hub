@@ -19,6 +19,18 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[Emoji 官方表情搜索](https://emojiratings.tumblr.com)   
+输入表情，搜索展示全球大厂的官方表情，可以清晰看出各家设计风格的不同。
+
+[Radio Garden](http://radio.garden/live/)   
+![](https://www.wangbase.com/blogimg/asset/201806/bg2018062225.jpg)   
+世界地图上每一个绿点，就代表一个当地的电台。光标移上去，就可以听到该电台的现场直播。   
+原站点无法访问，可以访问谷歌商店下载应用体验。
+
+[Gource](http://gource.io/)   
+![](https://www.wangbase.com/blogimg/asset/201806/bg2018062220.jpg)   
+Gource 是一个很好玩的可视化工具，可以将代码仓库的历史变成视频，支持 Git 和 SVN 等多种格式。只要在仓库目录执行 gource 命令，就能看到提交历史的视频。
+
 [如何在抖音上找到漂亮小姐姐？](https://github.com/wangshub/Douyin-Bot)   
 作者用 Python + ADB 做的 Bot。它会自动打开 APP 对视频截图，然后请求腾讯的 [人脸识别 API](http://ai.qq.com/)，当颜值大于门限值 `BEAUTY_THRESHOLD`时，点赞并关注，接着翻到下一页，重复进行该过程用来收集漂亮的小姐姐。
 
@@ -40,7 +52,8 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 设计 <a name="design"></a>
-
+[Lottie](http://airbnb.io/lottie/)   
+Airbnb 推出的动画效果库，可以把 Adobe After Effects 制作的动画用于 Web、安卓和 iOS。
 
 [Cool Backgrounds](https://coolbackgrounds.io/)   
 ![](https://www.wangbase.com/blogimg/asset/201806/bg2018060823.jpg)   
@@ -81,8 +94,23 @@ React Native 可以写桌面应用了，不必使用 Electron 了。有人写了
 
 
 ## 区块链 <a name="blockchain"></a>
+[GitTorrent](https://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)   
+一个采用 BitTorrent 协议的 GitHub 替代品，真正做到了无中心。虽然这个项目很久没有更新了，但是可以阅读上面的文章，了解它的原理。
+
+[IPFS 教程](https://github.com/miaoski/ipfs-tutorial)   
+![](https://www.wangbase.com/blogimg/asset/201806/bg2018062911.jpg)   
+如果你想把一个文件放到网上，从此任何人无法删除和屏蔽，别人只要想看就能看到，你可以使用 IPFS。
+
+它是一个分布式网络，采用点对点通信。内部是一个区块链，文件写入以后就没法删除了，然后通过哈希可以读出文件。缺点是本地需要架设一个客户端，资源开销有点大。
+
 
 ## 人工智能 <a name="AI"></a>
+[faceai](https://github.com/vipstone/faceai)   
+一款入门级的人脸、视频、文字检测以及识别的项目。
+
+[机器学习50个最佳免费数据集](https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/)   
+这里列出50个可以用来训练模型的免费大型数据集。
+
 [self-driving-toy-car](https://github.com/experiencor/self-driving-toy-car)   
 ![](https://www.wangbase.com/blogimg/asset/201806/bg2018060821.jpg)   
 一个开源的自动驾驶玩具车，在小车上面绑了一个树莓派和摄像头。
