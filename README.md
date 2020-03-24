@@ -19,8 +19,13 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[cartoonify](https://github.com/danmacnish/cartoonify)   
+![](https://www.wangbase.com/blogimg/asset/201807/bg2018071315.jpg)   
+非常有创意发明：自制的"拍立得"照相机，拍出来的不是照片，而是卡通图片！它的内部是摄像头+树莓派+热敏打印机。获得照片以后，自动调用谷歌的服务，处理成卡通图片，然后打印出来。
+
+
 [Emoji 官方表情搜索](https://emojiratings.tumblr.com)   
-输入表情，搜索展示全球大厂的官方表情，可以清晰看出各家设计风格的不同。
+输入表情，搜索展示全球大厂的官方表情，可以清晰看出各家设计风格的不同。
 
 [Radio Garden](http://radio.garden/live/)   
 ![](https://www.wangbase.com/blogimg/asset/201806/bg2018062225.jpg)   
@@ -32,7 +37,7 @@ Created by Yunior  2014-6-14 17:37
 Gource 是一个很好玩的可视化工具，可以将代码仓库的历史变成视频，支持 Git 和 SVN 等多种格式。只要在仓库目录执行 gource 命令，就能看到提交历史的视频。
 
 [如何在抖音上找到漂亮小姐姐？](https://github.com/wangshub/Douyin-Bot)   
-作者用 Python + ADB 做的 Bot。它会自动打开 APP 对视频截图，然后请求腾讯的 [人脸识别 API](http://ai.qq.com/)，当颜值大于门限值 `BEAUTY_THRESHOLD`时，点赞并关注，接着翻到下一页，重复进行该过程用来收集漂亮的小姐姐。
+作者用 Python + ADB 做的 Bot。它会自动打开 APP 对视频截图，然后请求腾讯的 [人脸识别 API](http://ai.qq.com/)，当颜值大于门限值 `BEAUTY_THRESHOLD`时，点赞并关注，接着翻到下一页，重复进行该过程用来收集漂亮的小姐姐。
 
 [github-contributions-chart](https://github.com/sallar/github-contributions-chart)（[Demo](https://github-contributions.now.sh/)）  
 GitHub 用户主页有一张图，每一天就是一个小格子。你只要在这一天提交了代码，这个格子就是绿色。但是，这张图只显示过去的一年，即365个格子。   
@@ -85,6 +90,9 @@ React Native 可以写桌面应用了，不必使用 Electron 了。有人写了
 
 
 ## 后端 <a name="backend"></a>
+[Jib](https://jaxenter.com/jib-java-containerization-146647.html)   
+谷歌开源的 Java 应用容器生成工具，不用写 Dockerfile，构造过程中自动生成一个 Docker 容器。
+
 [Gitea](https://gitea.io/en-us/)   
 类似于 GitHub 和 GitLab 的开源项目，用于个人架设 Git 代码托管服务，使用 Go 语言实现。
 
@@ -116,6 +124,13 @@ React Native 可以写桌面应用了，不必使用 Electron 了。有人写了
 一个开源的自动驾驶玩具车，在小车上面绑了一个树莓派和摄像头。
 
 ## 免费教程资源 <a name="freebook"></a>
+[C 语言教程：构建 Lisp 编译器](https://ksco.gitbooks.io/build-your-own-lisp/)   
+一本免费电子书，从零开始讲解 C 语言，目标是写出一个 Lisp 语言的编译器。
+
+[WebAssembly 现状与实战](https://www.ibm.com/developerworks/cn/web/wa-lo-webassembly-status-and-reality/index.html)   
+WebAssembly 并不是一门编程语言，而是一份字节码标准，需要用高级编程语言编译出字节码放到 WebAssembly 虚拟机中才能运行， 浏览器厂商需要做的就是根据 WebAssembly 规范实现虚拟机。本文重点介绍如何使用 AssemblyScript 来编写 WebAssembly。
+
+
 [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)   
 一本针对初学者的 Python 教程。
 
