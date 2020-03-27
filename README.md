@@ -19,6 +19,9 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua)   
+新华字典数据库和 API，收录 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语。
+
 [cartoonify](https://github.com/danmacnish/cartoonify)   
 ![](https://www.wangbase.com/blogimg/asset/201807/bg2018071315.jpg)   
 非常有创意发明：自制的"拍立得"照相机，拍出来的不是照片，而是卡通图片！它的内部是摄像头+树莓派+热敏打印机。获得照片以后，自动调用谷歌的服务，处理成卡通图片，然后打印出来。
@@ -69,6 +72,10 @@ Airbnb 推出的动画效果库，可以把 Adobe After Effects 制作的动画�
 
 
 ## 前端 <a name="frontend"></a>
+[react-particle-effect-button](https://github.com/transitive-bullshit/react-particle-effect-button)   
+![](https://www.wangbase.com/blogimg/asset/201808/bg2018081720.jpg)   
+一个 React 组件，按钮点击后会像粒子状消解。
+
 [wired-elements](https://github.com/wiredjs/wired-elements)   
 ![](https://www.wangbase.com/blogimg/asset/201806/bg2018061427.jpg)   
 一个有手绘效果的网页组件库。但是，真正特别之处在于它的底层是 Web components，让我们看到了除了React/Vue之外，还有其他的路。
@@ -90,6 +97,12 @@ React Native 可以写桌面应用了，不必使用 Electron 了。有人写了
 
 
 ## 后端 <a name="backend"></a>
+[最简单的反向代理服务器](https://hackernoon.com/writing-a-reverse-proxy-in-just-one-line-with-go-c1edfa78c84b)   
+本文介绍如何用 Go 语言实现一个最简单的反向代理服务器。
+
+[Night-Reading-Go](https://github.com/developer-learning/night-reading-go)   
+由 Go 夜读 SIG 成员维护，并通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。
+
 [Jib](https://jaxenter.com/jib-java-containerization-146647.html)   
 谷歌开源的 Java 应用容器生成工具，不用写 Dockerfile，构造过程中自动生成一个 Docker 容器。
 
@@ -124,12 +137,14 @@ React Native 可以写桌面应用了，不必使用 Electron 了。有人写了
 一个开源的自动驾驶玩具车，在小车上面绑了一个树莓派和摄像头。
 
 ## 免费教程资源 <a name="freebook"></a>
+[如何使用 Node 优化图片？](https://freshman.tech/image-optimisation/)   
+本文教你使用 JS 的 imagemin 模块，压缩图片的大小。
+
 [C 语言教程：构建 Lisp 编译器](https://ksco.gitbooks.io/build-your-own-lisp/)   
 一本免费电子书，从零开始讲解 C 语言，目标是写出一个 Lisp 语言的编译器。
 
 [WebAssembly 现状与实战](https://www.ibm.com/developerworks/cn/web/wa-lo-webassembly-status-and-reality/index.html)   
 WebAssembly 并不是一门编程语言，而是一份字节码标准，需要用高级编程语言编译出字节码放到 WebAssembly 虚拟机中才能运行， 浏览器厂商需要做的就是根据 WebAssembly 规范实现虚拟机。本文重点介绍如何使用 AssemblyScript 来编写 WebAssembly。
-
 
 [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)   
 一本针对初学者的 Python 教程。
@@ -154,6 +169,9 @@ WebAssembly 并不是一门编程语言，而是一份字节码标准，需要�
 
 
 ## 其它 <a name="other"></a>
+[Vialer-js](https://github.com/vialer/vialer-js)   
+一个基于 WebRTC 技术的实时通讯平台，可以实现 P2P 的文字聊天、语音和视频对话。
+
 [Google CTF 的试题](https://github.com/google/google-ctf)   
 这个是试题库，收集了 Google 主办的黑客安全大赛 CTF 的题目。
 
