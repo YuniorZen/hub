@@ -19,6 +19,18 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[网页设计博物馆](https://www.webdesignmuseum.org/)   
+![](https://www.wangbase.com/blogimg/asset/201809/bg2018092116.jpg)   
+该博物馆展出了1600多个精心挑选和分类的网站，展示了1995年至2019年间的网页设计趋势。上图是苹果公司2001年的主页。
+
+![](https://www.wangbase.com/blogimg/asset/201809/bg2018092104.jpg)    
+调查发现，安卓手机的 3 x 3 的认证点阵，虽然理论上可以有近400,000种的解锁模式，但是实际上，20%的用户采用的是上面12种手势之一。   
+拿到手机的人，只要尝试这12种手势，就有很大可能解锁进入系统。你中招了吗？
+
+[Windows 2000 的浏览器版](https://bellard.org/jslinux/vm.html?url=https://bellard.org/jslinux/win2k.cfg&mem=192&graphic=1&w=1024&h=768)   
+![](https://www.wangbase.com/blogimg/asset/201809/bg2018091415.jpg)   
+Windows 2000 通过 WebAssembly，可以在浏览器里运行了。
+
 [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua)   
 新华字典数据库和 API，收录 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语。
 
@@ -55,6 +67,20 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[ytdl-webserver](https://github.com/Algram/ytdl-webserver)   
+![](https://www.wangbase.com/blogimg/asset/201810/bg2018100521.jpg)   
+搭建 Web 服务下载 Youtube 视频的工具。
+
+[reminiscence](https://github.com/kanishka-linux/reminiscence)   
+一个架设在本地的网络书签管理系统，会自动抓取书签内容，并生成标签和摘要，使用 django 框架开发。
+
+[AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN)  
+该项目可借助 AI 技术快速将真实图像转换为日漫风格的画作，让你分分钟化身成新海诚、宫崎骏等漫画大师。
+
+[RSSHub](https://docs.rsshub.app/)
+![](https://www.wangbase.com/blogimg/asset/201809/bg2018092122.jpg)   
+直接提供各种 Web 应用的 RSS 供订阅。代码开源，可以自己部署。
+
 [ReLaXed](https://github.com/RelaxedJS/ReLaXed)   
 一个将 HTML 文件转为 PDF 文件的命令行工具。
 
@@ -72,6 +98,9 @@ Airbnb 推出的动画效果库，可以把 Adobe After Effects 制作的动画�
 
 
 ## 前端 <a name="frontend"></a>
+[puppeteer-recorder](https://chrome.google.com/webstore/detail/puppeteer-recorder/djeegiggegleadkkbgopoonhjimgehda)   
+Chrome 插件，可以将用户在浏览器里面的操作，自动生成对应的 Puppeteer 脚本。
+
 [react-particle-effect-button](https://github.com/transitive-bullshit/react-particle-effect-button)   
 ![](https://www.wangbase.com/blogimg/asset/201808/bg2018081720.jpg)   
 一个 React 组件，按钮点击后会像粒子状消解。
@@ -97,6 +126,12 @@ React Native 可以写桌面应用了，不必使用 Electron 了。有人写了
 
 
 ## 后端 <a name="backend"></a>
+[perkeep](https://perkeep.org/)   
+perkeep 是一个开源工具，可以将你的文件同步储存到多个节点，保证不会丢失。它可以用作个人的储存系统，可以看作是亚马逊 S3 服务的本地实现。
+
+[pygmy](https://github.com/amitt001/pygmy)   
+Python 语言写的短网址服务，前后端代码都包括。
+
 [最简单的反向代理服务器](https://hackernoon.com/writing-a-reverse-proxy-in-just-one-line-with-go-c1edfa78c84b)   
 本文介绍如何用 Go 语言实现一个最简单的反向代理服务器。
 
@@ -137,6 +172,9 @@ React Native 可以写桌面应用了，不必使用 Electron 了。有人写了
 一个开源的自动驾驶玩具车，在小车上面绑了一个树莓派和摄像头。
 
 ## 免费教程资源 <a name="freebook"></a>
+[node best practices](https://github.com/i0natan/nodebestpractices)   
+一个收集  Node 最佳实践的仓库。
+
 [如何使用 Node 优化图片？](https://freshman.tech/image-optimisation/)   
 本文教你使用 JS 的 imagemin 模块，压缩图片的大小。
 
