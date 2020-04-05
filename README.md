@@ -67,6 +67,21 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[Screen to GIF](https://www.screentogif.com/)   
+一个可以录制 GIF 图片的开源工具，同时还具备编辑帧、调用摄像头录制、录制画板等功能。
+
+[Youtube 资源](https://www.bestyoutubechannels.info/)   
+该网站列出分类的最受欢迎 Youtube 频道。如果你不知道 Youtube 上看什么，可以浏览一下这个网站。
+
+[全球假日 API](https://www.calendarindex.com/)   
+该数据库覆盖全球180多个国家的公众假期。
+
+[OpenCC](https://github.com/BYVoid/OpenCC)   
+中文繁体和简体互相转换的开源工具，C 语言开发的。
+
+[camelot](https://github.com/socialcopsdev/camelot)   
+从 PDF 文件（非扫描）里面提取表格的 Python 库。
+
 [ytdl-webserver](https://github.com/Algram/ytdl-webserver)   
 ![](https://www.wangbase.com/blogimg/asset/201810/bg2018100521.jpg)   
 搭建 Web 服务下载 Youtube 视频的工具。
@@ -98,6 +113,21 @@ Airbnb 推出的动画效果库，可以把 Adobe After Effects 制作的动画�
 
 
 ## 前端 <a name="frontend"></a>
+[ImmortalDB](https://github.com/gruns/ImmortalDB)   
+ImmortalDB  是一个浏览器 key-value 储存的封装库，把 Cookies、IndexedDB、LocalStorage、SessionStorage 统一成一个接口。它的最大特色就是数据冗余机制，即使某种底层储存机制失效，它可以从其他机制恢复数据。
+
+[gRPC-Web](https://www.cncf.io/blog/2018/10/24/grpc-web-is-going-ga/)   
+![](https://www.wangbase.com/blogimg/asset/201811/bg2018110923.jpg)   
+gRPC-Web 是一个JavaScript客户端库，使 Web 应用程序能够直接与后端gRPC服务通信，不需要 HTTP 服务器充当中介。这意味着可以构建真正的端到端 gRPC 应用程序体系结构。
+
+[arwes](https://github.com/arwesjs/arwes)   
+![](https://www.wangbase.com/blogimg/asset/201811/bg2018110921.jpg)   
+一个质量不错的科幻风格 React UI 组件库。
+
+[retejs](https://github.com/retejs/rete)   
+![](https://www.wangbase.com/blogimg/asset/201810/bg2018101919.jpg)   
+可视化编程的 JavaScript 框架。
+
 [puppeteer-recorder](https://chrome.google.com/webstore/detail/puppeteer-recorder/djeegiggegleadkkbgopoonhjimgehda)   
 Chrome 插件，可以将用户在浏览器里面的操作，自动生成对应的 Puppeteer 脚本。
 
@@ -126,6 +156,9 @@ React Native 可以写桌面应用了，不必使用 Electron 了。有人写了
 
 
 ## 后端 <a name="backend"></a>
+[树莓派如何搭建 NAS](https://opensource.com/article/18/7/network-attached-storage-Raspberry-Pi)   
+想要搭建家用储存系统的朋友，可以看这篇教程，使用树莓派和移动硬盘，搭建一个 NAS，操作简单，可玩性高，费用便宜。
+
 [perkeep](https://perkeep.org/)   
 perkeep 是一个开源工具，可以将你的文件同步储存到多个节点，保证不会丢失。它可以用作个人的储存系统，可以看作是亚马逊 S3 服务的本地实现。
 
@@ -161,6 +194,13 @@ Python 语言写的短网址服务，前后端代码都包括。
 
 
 ## 人工智能 <a name="AI"></a>
+[TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course)   
+针对新手的 TensorFlow 教程。
+
+[lip-reading-deeplearning](https://github.com/astorfi/lip-reading-deeplearning)   
+![](https://www.wangbase.com/blogimg/asset/201811/bg2018110217.jpg)   
+一个使用深度学习，从嘴唇变化识别语言的库。
+
 [faceai](https://github.com/vipstone/faceai)   
 一款入门级的人脸、视频、文字检测以及识别的项目。
 
