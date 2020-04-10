@@ -19,6 +19,20 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[wikiHow](https://zh.wikihow.com/)
+一个人人都可编辑、教大家做任何事情的百科全书，网站上几乎全是“如何「xxxx」”的内容，包含生活、工作、金融、技能、旅行、宗教等等内容。
+
+[表情能手](https://emojiwiz.com/zh/)   
+一个属于 Emoji 的百科全书「表情能手」,搜索查找、一键复制粘贴任意表情!
+
+[Code Combat](https://codecombat.com/)    
+![](https://www.wangbase.com/blogimg/asset/201812/bg2018121423.jpg)    
+一款学习编程的网页游戏。更多>> [12款助你学编程的免费游戏](https://zhuanlan.zhihu.com/p/23936161)
+
+[JSCity](https://github.com/aserg-ufmg/JSCity)   
+![](https://www.wangbase.com/blogimg/asset/201811/bg2018113019.jpg)    
+该工具可以将 JS 项目的源代码显示为一座城市。还有一个类似的[项目](https://github.com/rodrigo-brito/gocity)，专用于 Go 语言。
+
 [网页设计博物馆](https://www.webdesignmuseum.org/)   
 ![](https://www.wangbase.com/blogimg/asset/201809/bg2018092116.jpg)   
 该博物馆展出了1600多个精心挑选和分类的网站，展示了1995年至2019年间的网页设计趋势。上图是苹果公司2001年的主页。
@@ -67,6 +81,16 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[twitter2facebook](https://github.com/gslin/twitter2facebook)   
+推特同步到 Facebook 的工具，最大特点是不使用 Facebook API，而是使用无头版的 Chrome。
+
+[Photopea](https://www.photopea.com/)   
+![](https://www.wangbase.com/blogimg/asset/201812/bg2018120717.jpg)    
+在线图像编辑器，免费，可以替代 PhotoShop 的一部分功能。
+
+[strapdown](https://github.com/arturadib/strapdown)   
+Markdown 文件直接部署成静态网站，不需要编译。
+
 [Screen to GIF](https://www.screentogif.com/)   
 一个可以录制 GIF 图片的开源工具，同时还具备编辑帧、调用摄像头录制、录制画板等功能。
 
@@ -101,6 +125,10 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 设计 <a name="design"></a>
+[艺术品图像](https://www.artic.edu/collection?is_public_domain=1)   
+![](https://www.wangbase.com/blogimg/asset/201812/bg2018121420.jpg)   
+芝加哥艺术学院的网站提供5万多张艺术品图片，全部都是高分辨率，而且可以免费使用。
+
 [Lottie](http://airbnb.io/lottie/)   
 Airbnb 推出的动画效果库，可以把 Adobe After Effects 制作的动画用于 Web、安卓和 iOS。
 
@@ -156,6 +184,10 @@ React Native 可以写桌面应用了，不必使用 Electron 了。有人写了
 
 
 ## 后端 <a name="backend"></a>
+[webtty](https://github.com/maxmcd/webtty)   
+一个使用 WebRTC 协议分享命令行对话的工具，特点就是点对点的分享，不需要中间代理，而且可以在浏览器之中使用。
+
+
 [树莓派如何搭建 NAS](https://opensource.com/article/18/7/network-attached-storage-Raspberry-Pi)   
 想要搭建家用储存系统的朋友，可以看这篇教程，使用树莓派和移动硬盘，搭建一个 NAS，操作简单，可玩性高，费用便宜。
 
@@ -194,6 +226,17 @@ Python 语言写的短网址服务，前后端代码都包括。
 
 
 ## 人工智能 <a name="AI"></a>
+[CycleGAN](https://github.com/junyanz/CycleGAN)   
+![](https://www.wangbase.com/blogimg/asset/201812/bg2018121424.jpg)   
+图像处理软件，可以把马变成斑马、苹果变成橙子。
+
+[DeOldify](https://github.com/jantic/DeOldify)    
+![](https://www.wangbase.com/blogimg/asset/201811/bg2018113015.jpg)   
+老照片着色的机器学习库。
+
+[ml5.js](https://ml5js.org/)   
+一个基于 TensorFlow.js 的机器学习封装库，提供方便易用的 API，可以用于图像分类和视频分类等常见用途。
+
 [TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course)   
 针对新手的 TensorFlow 教程。
 
@@ -247,6 +290,9 @@ WebAssembly 并不是一门编程语言，而是一份字节码标准，需要�
 
 
 ## 其它 <a name="other"></a>
+[需要学习的是编程，而不是编程语言](https://phpocean.com/blog/article/learning-programming-is-different-from-learning-a-programming-language/80)（英文）   
+作者注意到，编程与编程语言几乎没有关系，学生可能只是在学编程语言，而不是在学编程。
+
 [Vialer-js](https://github.com/vialer/vialer-js)   
 一个基于 WebRTC 技术的实时通讯平台，可以实现 P2P 的文字聊天、语音和视频对话。
 
