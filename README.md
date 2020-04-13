@@ -19,7 +19,7 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
-[wikiHow](https://zh.wikihow.com/)
+[wikiHow](https://zh.wikihow.com/)    
 一个人人都可编辑、教大家做任何事情的百科全书，网站上几乎全是“如何「xxxx」”的内容，包含生活、工作、金融、技能、旅行、宗教等等内容。
 
 [表情能手](https://emojiwiz.com/zh/)   
@@ -81,6 +81,9 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[Squoosh](https://squoosh.app/)  
+谷歌推出的图像压缩工具，代码开源。官网可以在线压缩图片，而且可以转换图片格式（比如 webp 转 jpg）。
+
 [twitter2facebook](https://github.com/gslin/twitter2facebook)   
 推特同步到 Facebook 的工具，最大特点是不使用 Facebook API，而是使用无头版的 Chrome。
 
@@ -125,6 +128,9 @@ Markdown 文件直接部署成静态网站，不需要编译。
 
 
 ## 设计 <a name="design"></a>
+[页面加载动画](https://medium.com/@ann.green/loading-indicators-e9d9ac9680b)   
+这篇文章收集了近20个加载页面的优秀动画效果。
+
 [艺术品图像](https://www.artic.edu/collection?is_public_domain=1)   
 ![](https://www.wangbase.com/blogimg/asset/201812/bg2018121420.jpg)   
 芝加哥艺术学院的网站提供5万多张艺术品图片，全部都是高分辨率，而且可以免费使用。
@@ -184,6 +190,10 @@ React Native 可以写桌面应用了，不必使用 Electron 了。有人写了
 
 
 ## 后端 <a name="backend"></a>
+[Tox](https://tox.chat/)   
+![](https://www.wangbase.com/blogimg/asset/201902/bg2019021520.jpg)   
+Tox 是一个开源的实时通信协议，不需要中央服务器，提供多种跨平台的客户端。
+
 [webtty](https://github.com/maxmcd/webtty)   
 一个使用 WebRTC 协议分享命令行对话的工具，特点就是点对点的分享，不需要中间代理，而且可以在浏览器之中使用。
 
@@ -226,6 +236,15 @@ Python 语言写的短网址服务，前后端代码都包括。
 
 
 ## 人工智能 <a name="AI"></a>
+[sketch-code](https://github.com/ashnkumar/sketch-code)   
+![](https://www.wangbase.com/blogimg/asset/201902/bg2019022227.jpg)   
+人工智能生成前端网页的工具，已经可用了。自动将手绘图，变成 HTML 网页。作者还写了一篇文章[介绍原理](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82)。
+
+
+[Comixify](https://comixify.ii.pw.edu.pl/)   
+![](https://www.wangbase.com/blogimg/asset/201901/bg2019011817.jpg)    
+一个波兰团队做了非常好玩的工具，可以把视频自动转成漫画，上图是他们提供的 demo，效果很棒。
+
 [CycleGAN](https://github.com/junyanz/CycleGAN)   
 ![](https://www.wangbase.com/blogimg/asset/201812/bg2018121424.jpg)   
 图像处理软件，可以把马变成斑马、苹果变成橙子。
@@ -255,6 +274,15 @@ Python 语言写的短网址服务，前后端代码都包括。
 一个开源的自动驾驶玩具车，在小车上面绑了一个树莓派和摄像头。
 
 ## 免费教程资源 <a name="freebook"></a>
+[树莓派的项目](https://hackaday.io/projects?tag=raspberry%20pi)   
+该网站收集各种树莓派的项目，目前已经有1000多项了。
+
+[中国科大计算机学院课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)   
+该仓库收集中科大计算机学院的课程资源, 包括课程电子版书籍、参考书、slides(ppt)、考试试卷、学习心得、一部分习题答案。
+
+[3Blue1Brown 视频的中文官方账号](https://space.bilibili.com/88461692/video)   
+3Blue1Brown 是著名的数学科普视频制作者。
+
 [node best practices](https://github.com/i0natan/nodebestpractices)   
 一个收集  Node 最佳实践的仓库。
 
@@ -290,6 +318,19 @@ WebAssembly 并不是一门编程语言，而是一份字节码标准，需要�
 
 
 ## 其它 <a name="other"></a>
+[死刑犯的遗言](https://www.tdcj.texas.gov/death_row/dr_executed_offenders.html)   
+美国得州政府有一个网页，专门收集犯人执行死刑前的遗言。
+
+[什么是真正的程序员](https://www.cnblogs.com/xueweihan/p/5220513.html)    
+本文是一篇译文，作者仿照《小王子》中的情节，通过小 printf 遇见的不同类型的程序员，最后悟出什么才是真正的程序员！
+
+[Maths is fun](https://www.mathsisfun.com/)   
+该网站是数学知识科普，覆盖了代数，几何，统计，微积分等领域。有一个爱好者翻译的[中文镜像](http://www.shuxuele.com/index.html)。
+
+[Maze Battles](http://www.mazebattles.com/)   
+![](https://www.wangbase.com/blogimg/asset/201901/bg2019010418.jpg)   
+一个在线的迷宫游戏网站，支持多人同时游戏。我玩了一局，还挺有意思。
+
 [需要学习的是编程，而不是编程语言](https://phpocean.com/blog/article/learning-programming-is-different-from-learning-a-programming-language/80)（英文）   
 作者注意到，编程与编程语言几乎没有关系，学生可能只是在学编程语言，而不是在学编程。
 
