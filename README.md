@@ -81,6 +81,12 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[colorSpace](https://color.4ty2.fun/)   
+一个网页工具，可以去除图像里面的用户指定的颜色，对去除背景很有用。
+
+[you-get](https://github.com/soimort/you-get)    
+You-Get 一小小哒命令行程序，提供便利的方式来下载近乎全网的视频。
+
 [Squoosh](https://squoosh.app/)  
 谷歌推出的图像压缩工具，代码开源。官网可以在线压缩图片，而且可以转换图片格式（比如 webp 转 jpg）。
 
@@ -147,6 +153,13 @@ Airbnb 推出的动画效果库，可以把 Adobe After Effects 制作的动画�
 
 
 ## 前端 <a name="frontend"></a>
+[send](https://github.com/mozilla/send)    
+Mozilla 的文件上传服务 send.firefox.com 的源码，基于 Nodejs。
+
+[Maze_Solver_Generator](https://github.com/dmaydan/Maze_Solver_Generator)   
+![](https://www.wangbase.com/blogimg/asset/201903/bg2019030819.jpg)   
+一个在 &lt;canvas&gt; 元素上绘制和解决迷宫的 JavaScript 库。
+
 [ImmortalDB](https://github.com/gruns/ImmortalDB)   
 ImmortalDB  是一个浏览器 key-value 储存的封装库，把 Cookies、IndexedDB、LocalStorage、SessionStorage 统一成一个接口。它的最大特色就是数据冗余机制，即使某种底层储存机制失效，它可以从其他机制恢复数据。
 
