@@ -194,6 +194,9 @@ Airbnb 推出的动画效果库，可以把 Adobe After Effects 制作的动画�
 
 
 ## 前端 <a name="frontend"></a>
+[数字雨](https://codepen.io/yuanchuan/pen/YoqWeR)   
+浏览器还原电影《黑客帝国》的数字雨，链接为 Codepen.io 演示。
+
 [tracking.js](https://trackingjs.com/)   
 一个浏览器里面的人脸捕捉、颜色追踪的 JS 库。
 
@@ -317,6 +320,10 @@ Python 语言写的短网址服务，前后端代码都包括。
 
 
 ## 人工智能 <a name="AI"></a>
+[video-object-removal](https://github.com/zllrunning/video-object-removal)    
+![](https://www.wangbase.com/blogimg/asset/201907/bg2019071804.jpg)   
+这个工具使用机器学习算法，去除视频里面的运动物体。
+
 [sketch-code](https://github.com/ashnkumar/sketch-code)   
 ![](https://www.wangbase.com/blogimg/asset/201902/bg2019022227.jpg)   
 人工智能生成前端网页的工具，已经可用了。自动将手绘图，变成 HTML 网页。作者还写了一篇文章[介绍原理](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82)。
