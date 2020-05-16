@@ -19,6 +19,16 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[No CS Degree](https://www.nocsdegree.com/)   
+该网站专门采访自学成才的程序员，每个采访对象都会问他们怎么学会编程，怎么找到工作。
+
+[Anime4K](https://github.com/bloc97/Anime4K)   
+![](https://www.wangbase.com/blogimg/asset/201908/bg2019081503.jpg)   
+实时提升卡通动画的分辨率，使其成为高清动画的工具。
+
+[996.Blockchain](https://github.com/996BC/996.Blockchain)   
+一个区块链项目，专门用于保存加班记录，用户可以把自己的加班记录存到区块链。
+
 [Never-Blink](https://github.com/ByronHsu/Never-Blink)   
 ![](https://www.wangbase.com/blogimg/asset/201906/bg2019061309.jpg)   
 一个开源游戏，浏览器随机选择另一个用户，双方通过摄像头出现在网页上，谁先眨眼谁就输。
@@ -94,6 +104,27 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[ShowMeBug](https://www.showmebug.com/)   
+![](https://www.wangbase.com/blogimg/asset/201909/bg2019091005.png)   
+一个国产的在线实时编程环境，程序员面试助手，可以实时观看应聘者远程编程。
+
+[Raccoon](https://raccoon.onyxbits.de/)   
+![](https://www.wangbase.com/blogimg/asset/201908/bg2019082403.jpg)   
+从 Google Play 将安卓 apk 安装包下载到桌面的工具。
+
+[awesome-qrcode](https://github.com/ruanyf/weekly/issues/795)   
+二维码生成工具，可以生成静态二维码、图像二维码和动画二维码。
+
+[Rough.js](https://github.com/pshihn/rough/)   
+![](https://www.wangbase.com/blogimg/asset/201908/bg2019081911.jpg)   
+生成手绘风格图片的 JS 库。
+
+[DarkDarkGo](https://github.com/Bennington-Distributed-Systems-2017/DarkDarkGo)   
+开源的暗网搜索引擎工具
+
+[TagUI-Python](https://github.com/tebelorg/TagUI-Python)   
+一个 Python 的自动化模块，可以自己编写脚本，完成浏览器自动化、键盘自动化、鼠标自动化等操作。
+
 [Serveo](https://serveo.net/)  
 一个将本地计算机暴露在互联网上的服务。它的原理很简单，你在本地通过 SSH 与该网站建立远程代理，该网站会生成一个 URL，通过这个 URL 其他人就能访问你的本地计算机。
 
@@ -362,6 +393,9 @@ Python 语言写的短网址服务，前后端代码都包括。
 一个开源的自动驾驶玩具车，在小车上面绑了一个树莓派和摄像头。
 
 ## 免费教程资源 <a name="freebook"></a>
+[BBC 的音效库](http://bbcsfx.acropolis.org.uk/)   
+英国广播公司 BBC 的音效库，包含16000多种可以下载的音效，比如停车的声音、机床的声音、鸟叫的声音等等。
+
 [libpku](https://lib-pku.github.io/)   
 北京大学各种课程资料收集，目前已经接近100门课，让你在网上读北大。
 
