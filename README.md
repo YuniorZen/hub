@@ -19,6 +19,10 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[drinkNow](https://github.com/sologgfun/drinkNow)   
+![](https://www.wangbase.com/blogimg/asset/201909/bg2019092801.jpg)   
+Chrome 浏览器插件。每过一段时候，就会弹出一只小鸭子，提醒你要喝水。
+
 [No CS Degree](https://www.nocsdegree.com/)   
 该网站专门采访自学成才的程序员，每个采访对象都会问他们怎么学会编程，怎么找到工作。
 
@@ -192,6 +196,9 @@ Markdown 文件直接部署成静态网站，不需要编译。
 
 
 ## 设计 <a name="design"></a>
+[Free Stock Photos](https://taken.photos/)   
+免费的图库网站，所有图片都可以免费下载，可用于商业用途，包含数百万张图片。
+
 [avataaars generator](https://getavataaars.com/)   
 ![](https://www.wangbase.com/blogimg/asset/201905/bg2019051017.jpg)   
 开源的卡通头像生成器，可以定制各种头像参数。
@@ -393,6 +400,10 @@ Python 语言写的短网址服务，前后端代码都包括。
 一个开源的自动驾驶玩具车，在小车上面绑了一个树莓派和摄像头。
 
 ## 免费教程资源 <a name="freebook"></a>
+[机器学习漫画](https://cloud.google.com/products/ai/ml-comic-1/)   
+![](https://www.wangbase.com/blogimg/asset/201909/bg2019091605.jpg)   
+谷歌推出的机器学习漫画，解释基本知识。
+
 [BBC 的音效库](http://bbcsfx.acropolis.org.uk/)   
 英国广播公司 BBC 的音效库，包含16000多种可以下载的音效，比如停车的声音、机床的声音、鸟叫的声音等等。
 
