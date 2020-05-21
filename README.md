@@ -19,6 +19,10 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[Bot Land](https://bot.land/)    
+![](https://www.wangbase.com/blogimg/asset/201909/bg2019093004.jpg)   
+一个在线策略游戏，玩家编程设计自己的机器人进行战斗。
+
 [drinkNow](https://github.com/sologgfun/drinkNow)   
 ![](https://www.wangbase.com/blogimg/asset/201909/bg2019092801.jpg)   
 Chrome 浏览器插件。每过一段时候，就会弹出一只小鸭子，提醒你要喝水。
@@ -108,6 +112,9 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[scoper](https://github.com/RameshAditya/scoper)   
+一个开源工具，可以搜索 Youtube 视频的字幕，返回关键词在视频里面出现的时间。
+
 [ShowMeBug](https://www.showmebug.com/)   
 ![](https://www.wangbase.com/blogimg/asset/201909/bg2019091005.png)   
 一个国产的在线实时编程环境，程序员面试助手，可以实时观看应聘者远程编程。
