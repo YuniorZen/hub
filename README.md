@@ -19,6 +19,10 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[诺基亚短信图片生成器](https://github.com/dcalsky/zzkia)   
+![](https://www.wangbase.com/blogimg/asset/201910/bg2019101405.jpg)   
+这个工具可以生成老式诺基亚手机的短信图片。
+
 [Bot Land](https://bot.land/)    
 ![](https://www.wangbase.com/blogimg/asset/201909/bg2019093004.jpg)   
 一个在线策略游戏，玩家编程设计自己的机器人进行战斗。
@@ -464,6 +468,13 @@ WebAssembly 并不是一门编程语言，而是一份字节码标准，需要�
 
 
 ## 其它 <a name="other"></a>
+[bruno simon](https://bruno-simon.com/)   
+![](https://www.wangbase.com/blogimg/asset/201910/bg2019102604.jpg)   
+这是很久以来，我见过的最酷主页，整个页面都是 3D 的。[页面源码](https://github.com/brunosimon/folio-2019)是开源的。
+
+[法信](http://www.faxin.cn/keyword/index.aspx)   
+一个法律仓库，可以在线搜索国内的各种法律。
+
 [几枝](https://chrome.google.com/webstore/detail/%E5%87%A0%E6%9E%9D/hfohpokminpknagcgncibpacohagppjn)   
 ![](https://www.wangbase.com/blogimg/asset/201906/bg2019062826.jpg)   
 Chrome 浏览器的插件，在新标签页展示中国传统色的层叠波浪动画效果，搭配经典诗词。
