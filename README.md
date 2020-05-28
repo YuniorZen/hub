@@ -19,6 +19,13 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[无意义的发明](https://www.unnecessaryinventions.com/)   
+该网站收集一些看似无用的发明。
+
+[Sketchviz](https://sketchviz.com/new)    
+![](https://www.wangbase.com/blogimg/asset/201911/bg2019111302.jpg)    
+生成手绘风格的流程图的在线工具。
+
 [诺基亚短信图片生成器](https://github.com/dcalsky/zzkia)   
 ![](https://www.wangbase.com/blogimg/asset/201910/bg2019101405.jpg)   
 这个工具可以生成老式诺基亚手机的短信图片。
@@ -116,6 +123,9 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[划词二维码](https://github.com/tanghuibo/qrcode-chrome-plug-in)   
+Chrome 浏览器插件，为选中的文字生成二维码，可以用来为网页提到的网址生成二维码。
+
 [scoper](https://github.com/RameshAditya/scoper)   
 一个开源工具，可以搜索 Youtube 视频的字幕，返回关键词在视频里面出现的时间。
 
@@ -313,6 +323,9 @@ React Native 可以写桌面应用了，不必使用 Electron 了。有人写了
 
 
 ## 后端 <a name="backend"></a>
+[snapdrop](https://github.com/RobinLinus/snapdrop)    
+一个开源的文件分享服务，使用 WebRTC 协议进行点对点传输。
+
 [tesseract.js](https://github.com/naptha/tesseract.js)   
 ![](https://www.wangbase.com/blogimg/asset/201906/bg2019062823.jpg)   
 一个可以完成 62 种语言 OCR （光学识别）的 JS 库。
@@ -468,6 +481,10 @@ WebAssembly 并不是一门编程语言，而是一份字节码标准，需要�
 
 
 ## 其它 <a name="other"></a>
+[gov-takedowns](https://github.com/github/gov-takedowns)   
+GitHub 有一个官方仓库，收录政府的来函，要求取缔某些内容。现在里面有三个国家的政府来函：中国、俄国和西班牙。所以，放在 GitHub 上的东西，可以合法地被政府拿掉。因此不要在 GitHub 乱放东西，尤其考虑到 GitHub 的老板是微软。
+
+
 [bruno simon](https://bruno-simon.com/)   
 ![](https://www.wangbase.com/blogimg/asset/201910/bg2019102604.jpg)   
 这是很久以来，我见过的最酷主页，整个页面都是 3D 的。[页面源码](https://github.com/brunosimon/folio-2019)是开源的。
