@@ -19,6 +19,13 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[Find yourself a hobby](http://findyourselfahobby.com/index.php)  
+该网站会随机显示一个业余爱好，以及介绍材料。如果你不知道自己有什么爱好，可以看看这个网站，也许能找到感兴趣的事。
+
+[cats-of-jasnah](https://github.com/countable/cats-of-jasnah)   
+![](https://www.wangbase.com/blogimg/asset/201912/bg2019122607.jpg)    
+一个为2岁～4岁婴儿开发的网页游戏，让孩子选有多少只符合条件的猫，比如红色的猫有多少只。
+
 [无意义的发明](https://www.unnecessaryinventions.com/)   
 该网站收集一些看似无用的发明。
 
@@ -123,6 +130,14 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[monica](https://github.com/monicahq/monica)   
+![](https://www.wangbase.com/blogimg/asset/201912/bg2019122111.jpg)    
+一个个人的 CRM（客户关系管理）系统，可以自己架设服务，管理你的所有人际关系。
+
+[Happy Hues](https://www.happyhues.co/palettes/17)   
+![](https://www.wangbase.com/blogimg/asset/201912/bg2019121315.jpg)    
+该网站提供一系列配色方案，可以实时切换、定制，查看效果。
+
 [划词二维码](https://github.com/tanghuibo/qrcode-chrome-plug-in)   
 Chrome 浏览器插件，为选中的文字生成二维码，可以用来为网页提到的网址生成二维码。
 
@@ -323,6 +338,9 @@ React Native 可以写桌面应用了，不必使用 Electron 了。有人写了
 
 
 ## 后端 <a name="backend"></a>
+[kutt](https://github.com/thedevs-network/kutt)   
+开源的短链接生成器，基于 Node.js，允许自定义短链接、设置链接密码，还提供访问统计。
+
 [snapdrop](https://github.com/RobinLinus/snapdrop)    
 一个开源的文件分享服务，使用 WebRTC 协议进行点对点传输。
 
@@ -371,6 +389,9 @@ Python 语言写的短网址服务，前后端代码都包括。
 
 
 ## 区块链 <a name="blockchain"></a>
+[区块链背后的密码学](https://learning.nervos.org/crypto-block/0-intro.html)   
+中文的密码学入门介绍，向非专业读者介绍了密码学的基本概念，没有涉及到技术细节。
+
 [GitTorrent](https://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)   
 一个采用 BitTorrent 协议的 GitHub 替代品，真正做到了无中心。虽然这个项目很久没有更新了，但是可以阅读上面的文章，了解它的原理。
 
@@ -481,6 +502,10 @@ WebAssembly 并不是一门编程语言，而是一份字节码标准，需要�
 
 
 ## 其它 <a name="other"></a>
+[深海](https://neal.fun/deep-sea/)    
+![](https://www.wangbase.com/blogimg/asset/201912/bg2019121501.jpg)    
+这个网站可以不停往下拉，看看每个深度的海底都有些什么生物。上图是海底45米。
+
 [gov-takedowns](https://github.com/github/gov-takedowns)   
 GitHub 有一个官方仓库，收录政府的来函，要求取缔某些内容。现在里面有三个国家的政府来函：中国、俄国和西班牙。所以，放在 GitHub 上的东西，可以合法地被政府拿掉。因此不要在 GitHub 乱放东西，尤其考虑到 GitHub 的老板是微软。
 
