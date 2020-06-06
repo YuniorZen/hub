@@ -389,6 +389,9 @@ Python 语言写的短网址服务，前后端代码都包括。
 
 
 ## 区块链 <a name="blockchain"></a>
+[从头构建一个 BitTorrent 客户端](https://blog.jse.li/posts/torrent/)（英文）   
+本文介绍 BitTorrent 点对点下载的原理，并给出 Go 语言的实现。
+
 [区块链背后的密码学](https://learning.nervos.org/crypto-block/0-intro.html)   
 中文的密码学入门介绍，向非专业读者介绍了密码学的基本概念，没有涉及到技术细节。
 
@@ -502,6 +505,9 @@ WebAssembly 并不是一门编程语言，而是一份字节码标准，需要�
 
 
 ## 其它 <a name="other"></a>
+[提早退休](https://en.wikipedia.org/wiki/FIRE_movement)  
+这是维基百科的条目，介绍正在兴起的一种社会运动，能否通过高度储蓄，实现提前退休？具体做法是，年收入的50%以上都储蓄，目标是把每年的消费压低到你个人财富总额的4%。
+
 [深海](https://neal.fun/deep-sea/)    
 ![](https://www.wangbase.com/blogimg/asset/201912/bg2019121501.jpg)    
 这个网站可以不停往下拉，看看每个深度的海底都有些什么生物。上图是海底45米。
