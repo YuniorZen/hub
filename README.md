@@ -130,6 +130,12 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[Unscreen](https://www.unscreen.com/)   
+一个在线工具，可以免费删除视频背景。
+
+[Wifi 登录二维码](https://wifi.dev.bdw.to/)   
+一个生成 Wifi 登录二维码的在线工具，手机扫码就可以登录 Wifi。
+
 [monica](https://github.com/monicahq/monica)   
 ![](https://www.wangbase.com/blogimg/asset/201912/bg2019122111.jpg)    
 一个个人的 CRM（客户关系管理）系统，可以自己架设服务，管理你的所有人际关系。
@@ -448,6 +454,10 @@ Python 语言写的短网址服务，前后端代码都包括。
 一个开源的自动驾驶玩具车，在小车上面绑了一个树莓派和摄像头。
 
 ## 免费教程资源 <a name="freebook"></a>
+[设计模式](https://refactoringguru.cn/design-patterns)    
+![](https://www.wangbase.com/blogimg/asset/202005/bg2020053101.jpg)   
+该网站为中文教程，使用通俗的语言，介绍各种设计模式，图文并茂。此外，还有代码重构方面的英语内容。
+
 [机器学习漫画](https://cloud.google.com/products/ai/ml-comic-1/)   
 ![](https://www.wangbase.com/blogimg/asset/201909/bg2019091605.jpg)   
 谷歌推出的机器学习漫画，解释基本知识。
