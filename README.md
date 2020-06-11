@@ -19,12 +19,16 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+
 [Find yourself a hobby](http://findyourselfahobby.com/index.php)  
 该网站会随机显示一个业余爱好，以及介绍材料。如果你不知道自己有什么爱好，可以看看这个网站，也许能找到感兴趣的事。
 
 [cats-of-jasnah](https://github.com/countable/cats-of-jasnah)   
 ![](https://www.wangbase.com/blogimg/asset/201912/bg2019122607.jpg)    
 一个为2岁～4岁婴儿开发的网页游戏，让孩子选有多少只符合条件的猫，比如红色的猫有多少只。
+
+[这里有多少只猫？](https://stylishsite.github.io/)    
+一个供幼儿练习辨识能力的在线游戏，第93期曾介绍过英文版，这里是网友做的汉化版。
 
 [无意义的发明](https://www.unnecessaryinventions.com/)   
 该网站收集一些看似无用的发明。
@@ -274,6 +278,12 @@ Airbnb 推出的动画效果库，可以把 Adobe After Effects 制作的动画�
 
 
 ## 前端 <a name="frontend"></a>
+[qier-progress](https://github.com/vortesnail/qier-progress)   
+一个网页顶部进度条的 JS 库。
+
+[craft.js](https://github.com/prevwong/craft.js)  
+一个可以通过拖拽生成 React 应用的可视化框架。
+
 [数字雨](https://codepen.io/yuanchuan/pen/YoqWeR)   
 浏览器还原电影《黑客帝国》的数字雨，链接为 Codepen.io 演示。
 
@@ -454,6 +464,15 @@ Python 语言写的短网址服务，前后端代码都包括。
 一个开源的自动驾驶玩具车，在小车上面绑了一个树莓派和摄像头。
 
 ## 免费教程资源 <a name="freebook"></a>
+[如何制作树莓派 NAS](https://www.instructables.com/id/PiNAS-the-Raspberry-Pi-NAS/)    
+![](https://www.wangbase.com/blogimg/asset/202002/bg2020020603.jpg)   
+![](https://www.wangbase.com/blogimg/asset/202002/bg2020020604.jpg)  
+一个详细的图片教程，介绍如何自己从头制作一个基于树莓派的 NAS 网络硬盘。
+
+[动手学深度学习](https://zh.d2l.ai/)   
+![](https://www.wangbase.com/blogimg/asset/202001/bg2020012402.jpg)   
+《Dive into Deep Learning》英文教材的中文翻译。
+
 [设计模式](https://refactoringguru.cn/design-patterns)    
 ![](https://www.wangbase.com/blogimg/asset/202005/bg2020053101.jpg)   
 该网站为中文教程，使用通俗的语言，介绍各种设计模式，图文并茂。此外，还有代码重构方面的英语内容。
