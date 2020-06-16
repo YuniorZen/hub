@@ -19,6 +19,9 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[archive.org](https://archive.org/) 
+互联网档案馆，包括视频音频文本，可以在线阅读，也可以下载，全免费。
+
 [NYC Cams](https://jott.live/html/nyc_cams)    
 ![](https://www.wangbase.com/blogimg/asset/202004/bg2020041301.jpg)   
 实时查看纽约街道上的摄像头。
