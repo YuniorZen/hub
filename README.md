@@ -19,6 +19,10 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[NYC Cams](https://jott.live/html/nyc_cams)    
+![](https://www.wangbase.com/blogimg/asset/202004/bg2020041301.jpg)   
+实时查看纽约街道上的摄像头。
+
 [Colorables](https://www.colorabl.es/all)    
 ![](https://www.wangbase.com/blogimg/asset/202003/bg2020033110.jpg)   
 这个网站可以下载各种填色图片，打印以后让小朋友用蜡笔填色。
