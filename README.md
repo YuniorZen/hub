@@ -506,6 +506,9 @@ Python 语言写的短网址服务，前后端代码都包括。
 一个开源的自动驾驶玩具车，在小车上面绑了一个树莓派和摄像头。
 
 ## 免费教程资源 <a name="freebook"></a>
+[《斯诺登自传》](https://a.temporaryrecord.com/)    
+斯诺登自传《永久记录》，未删节的简体中文版 PDF 下载，作者本人授权。
+
 [如何制作树莓派 NAS](https://www.instructables.com/id/PiNAS-the-Raspberry-Pi-NAS/)    
 ![](https://www.wangbase.com/blogimg/asset/202002/bg2020020603.jpg)   
 ![](https://www.wangbase.com/blogimg/asset/202002/bg2020020604.jpg)  
