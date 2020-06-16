@@ -19,6 +19,20 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[Colorables](https://www.colorabl.es/all)    
+![](https://www.wangbase.com/blogimg/asset/202003/bg2020033110.jpg)   
+这个网站可以下载各种填色图片，打印以后让小朋友用蜡笔填色。
+
+[Excalidraw](https://excalidraw.com/)   
+![](https://www.wangbase.com/blogimg/asset/202003/bg2020032106.jpg)   
+一个非常简单易用的白板绘图开源工具。
+
+[Awesome Open Source](https://awesomeopensource.com/)  
+该网站对 GitHub 上的开源项目进行分类，共有7000多个类别。
+ 
+[socode.pd](https://socode.pro/)   
+![](https://www.wangbase.com/blogimg/asset/202003/bg2020031601.jpg)   
+程序员的搜索工具，将各种网络资源汇总在一个搜索框里面。
 
 [Find yourself a hobby](http://findyourselfahobby.com/index.php)  
 该网站会随机显示一个业余爱好，以及介绍材料。如果你不知道自己有什么爱好，可以看看这个网站，也许能找到感兴趣的事。
@@ -134,6 +148,9 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[大圣盘](https://www.dashengpan.com/)   
+一个百度网盘资源搜索引擎，由网络爬虫自动抓取。
+
 [Unscreen](https://www.unscreen.com/)   
 一个在线工具，可以免费删除视频背景。
 
@@ -278,6 +295,9 @@ Airbnb 推出的动画效果库，可以把 Adobe After Effects 制作的动画�
 
 
 ## 前端 <a name="frontend"></a>
+[字体裁剪工具](https://github.com/2234839/web-font)   
+中文的字体文件都非常大，网页全部加载不现实。这个工具可以从字体里面，选取网页需要的字符，生成新的字体文件。
+
 [qier-progress](https://github.com/vortesnail/qier-progress)   
 一个网页顶部进度条的 JS 库。
 
@@ -354,6 +374,17 @@ React Native 可以写桌面应用了，不必使用 Electron 了。有人写了
 
 
 ## 后端 <a name="backend"></a>
+[SimpleCTO  screenshot](https://github.com/simplecto/screenshots)    
+一个在线生成网站截图的工具，用户提交 URL，就能下载网页截图，代码开源。
+
+[bigbluebutton](https://github.com/bigbluebutton/bigbluebutton)   
+![](https://www.wangbase.com/blogimg/asset/202003/bg2020031804.jpg)    
+开源的远程教育软件，也可用作视频会议。
+
+[openVidu](https://openvidu.io/)   
+![](https://www.wangbase.com/blogimg/asset/202003/bg2020031802.jpg)    
+一个开源的视频会议软件，使用 WebRTC 技术。
+
 [kutt](https://github.com/thedevs-network/kutt)   
 开源的短链接生成器，基于 Node.js，允许自定义短链接、设置链接密码，还提供访问统计。
 
