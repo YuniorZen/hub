@@ -148,6 +148,9 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[droppy](https://github.com/silverwind/droppy)   
+一个可以自己架设的网盘服务，适合搭建在内网，从 Web 界面上传和下载文件。
+
 [markmap-lib](https://markmap.js.org/)   
 ![](https://www.wangbase.com/blogimg/asset/202004/bg2020041001.jpg)    
 一个将 Markdown 转为思维导图的开源工具。
