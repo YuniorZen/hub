@@ -19,6 +19,9 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[avatarify](https://github.com/alievk/avatarify)   
+一个开源软件，只需要提供一张头像照片，就可以生成人物开口讲话的视频。
+
 [archive.org](https://archive.org/) 
 互联网档案馆，包括视频音频文本，可以在线阅读，也可以下载，全免费。
 
