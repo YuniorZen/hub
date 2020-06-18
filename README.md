@@ -158,6 +158,9 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[endpoints.dev](https://www.endpoints.dev/)      
+该网站向每个用户提供一个独特的 API 终点（endpoint），用于接受 HTTP 请求。用户发来的所有请求，都可以在该网站实时显示，用于调试和记录。
+
 [droppy](https://github.com/silverwind/droppy)   
 一个可以自己架设的网盘服务，适合搭建在内网，从 Web 界面上传和下载文件。
 
