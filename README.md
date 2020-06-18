@@ -397,6 +397,9 @@ React Native 可以写桌面应用了，不必使用 Electron 了。有人写了
 
 
 ## 后端 <a name="backend"></a>
+[spiderman](https://github.com/TurboWay/spiderman)   
+一个通用的分布式爬虫框架，基于 scrapy-redis，只需编写少量代码即可完成分布式爬虫抓取数据。
+
 [SimpleCTO  screenshot](https://github.com/simplecto/screenshots)    
 一个在线生成网站截图的工具，用户提交 URL，就能下载网页截图，代码开源。
 
