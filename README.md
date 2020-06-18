@@ -165,6 +165,9 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[WebTorrent](https://webtorrent.io/)   
+一个在浏览器进行 BT 下载的 JS 库，可以[网页 BT 下载](https://instant.io/)，也有[桌面客户端](https://webtorrent.io/desktop/)。
+
 [Sendfiles.online](https://sendfiles.online/)   
 一个免费的、不用注册的在线文件储存服务，最大可以上传 2GB，保存48小时。它会自动生成下载链接，可以分享给其他人。
 
@@ -328,6 +331,10 @@ Airbnb 推出的动画效果库，可以把 Adobe After Effects 制作的动画�
 
 
 ## 前端 <a name="frontend"></a>
+[设计工具收集](https://nodesign.dev/)   
+![](https://www.wangbase.com/blogimg/asset/202006/bg2020060902.jpg)    
+该网站收集各种设计工具和设计资源，没有设计师的时候，可以使用它们。
+
 [字体裁剪工具](https://github.com/2234839/web-font)   
 中文的字体文件都非常大，网页全部加载不现实。这个工具可以从字体里面，选取网页需要的字符，生成新的字体文件。
 
