@@ -397,6 +397,9 @@ React Native 可以写桌面应用了，不必使用 Electron 了。有人写了
 
 
 ## 后端 <a name="backend"></a>
+[NGINX Config](https://www.digitalocean.com/community/tools/nginx)    
+Nginx 的图形配置界面，点几下鼠标，自动生成配置文件，可以上传到服务器。
+  
 [spiderman](https://github.com/TurboWay/spiderman)   
 一个通用的分布式爬虫框架，基于 scrapy-redis，只需编写少量代码即可完成分布式爬虫抓取数据。
 
