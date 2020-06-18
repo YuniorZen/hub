@@ -162,6 +162,9 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[Sendfiles.online](https://sendfiles.online/)   
+一个免费的、不用注册的在线文件储存服务，最大可以上传 2GB，保存48小时。它会自动生成下载链接，可以分享给其他人。
+
 [WebWormhole](https://webwormhole.io/)    
 一个点对点的文件在线传输工具，利用 Webrtc 在两台电脑之间建立直接连接，代码[开源](https://github.com/saljam/webwormhole)。
 
