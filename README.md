@@ -19,6 +19,9 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[换脸视频生成服务](https://myvoiceyourface.com/)   
+一个在线服务，用户可以上传一张照片和一段视频，网站会将照片里的人脸，替换视频里面的人脸。
+
 [pose-animator](https://github.com/yemount/pose-animator)    
 ![](https://www.wangbase.com/blogimg/asset/202005/bg2020052108.jpg)    
 一个浏览器 JS 库，通过摄像头，实时捕捉用户的动作，生成 2D 动画。
