@@ -19,6 +19,10 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[Youka](https://github.com/youkaclub/youka-desktop/blob/master/README.md)    
+![](https://www.wangbase.com/blogimg/asset/202003/bg2020030801.jpg)    
+一个卡拉OK生成器，它可以从 Youtube 下载音乐视频，然后配上歌词，生成卡拉OK视频。
+
 [换脸视频生成服务](https://myvoiceyourface.com/)   
 一个在线服务，用户可以上传一张照片和一段视频，网站会将照片里的人脸，替换视频里面的人脸。
 
