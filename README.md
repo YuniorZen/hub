@@ -1,6 +1,7 @@
 # 好用的工具/资源聚合仓库
-- 本仓库用来收集好用的工具/资源
+- 本仓库专门用来收集好用的工具/资源
 - 推荐好用的工具/资源，请[提交 Issue](https://github.com/yuniorzen/hub/issues) 
+- 非常感谢阮一峰老师的[科技爱好者周刊](https://github.com/ruanyf/weekly)
 
 ```
 Created by Yunior  2014-6-14 17:37
