@@ -623,6 +623,9 @@ WebAssembly 并不是一门编程语言，而是一份字节码标准，需要�
 
 
 ## 其它 <a name="other"></a>
+[如何不靠运气变得富有](https://github.com/fat-garage/how-to-get-rich-without-getting-lucky)（中文）   
+Naval 是美国风险投资家，这是他的3小时长播客《如何不靠运气变得富有》的中文翻译，介绍了他的财富观，非常值得一读。
+
 [提早退休](https://en.wikipedia.org/wiki/FIRE_movement)  
 这是维基百科的条目，介绍正在兴起的一种社会运动，能否通过高度储蓄，实现提前退休？具体做法是，年收入的50%以上都储蓄，目标是把每年的消费压低到你个人财富总额的4%。
 
