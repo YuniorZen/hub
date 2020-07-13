@@ -1,7 +1,7 @@
 # 好用的工具/资源聚合仓库
 - 本仓库专门用来收集好用的工具/资源
 - 推荐好用的工具/资源，请[提交 Issue](https://github.com/yuniorzen/hub/issues) 
-- 非常感谢阮一峰老师的[科技爱好者周刊](https://github.com/ruanyf/weekly)
+- 非常感谢阮一峰老师的[科技爱好者周刊](https://github.com/ruanyf/weekly)提供的分享
 
 ```
 Created by Yunior  2014-6-14 17:37
@@ -553,6 +553,9 @@ Python 语言写的短网址服务，前后端代码都包括。
 一个开源的自动驾驶玩具车，在小车上面绑了一个树莓派和摄像头。
 
 ## 免费教程资源 <a name="freebook"></a>
+[webRTC 执行流程演示](https://nashaofu.github.io/webrtc-demo/)   
+这个网页演示和讲解，如何在无后端的情况下，通过 webRTC 建立双方的实时视频通话。
+
 [《斯诺登自传》](https://a.temporaryrecord.com/)    
 斯诺登自传《永久记录》，未删节的简体中文版 PDF 下载，作者本人授权。
 
