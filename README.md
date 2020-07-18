@@ -20,6 +20,9 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[窗口交换](https://window-swap.com/)    
+该网站让世界各地的人上传他们窗外的镜像，一段5到10分钟的视频。其他用户就可以在网站上随机看到别人的窗外。
+
 [Drive & Listen](https://driveandlisten.herokuapp.com/)    
 ![](https://www.wangbase.com/blogimg/asset/202006/bg2020061701.jpg)    
 一个很有趣的网站，让你在线体验一边开车一边听广播。使用驾驶员的视角，播放街景，有车速和街道噪音开关，配上当地的广播电台。目前支持几十个城市，包括北京和武汉。
