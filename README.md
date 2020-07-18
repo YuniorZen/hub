@@ -174,6 +174,10 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[icdiff](https://www.jefftk.com/icdiff)   
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020070606.jpg)   
+一个命令行的彩色 diff 工具。
+
 [WebTorrent](https://webtorrent.io/)   
 一个在浏览器进行 BT 下载的 JS 库，可以[网页 BT 下载](https://instant.io/)，也有[桌面客户端](https://webtorrent.io/desktop/)。
 
