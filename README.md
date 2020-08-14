@@ -177,6 +177,10 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[snapcode](https://github.com/sergeichestakov/snapcode)    
+![](https://www.wangbase.com/blogimg/asset/202008/bg2020080501.jpg)   
+一个很有创意的玩具项目，对手写的代码拍照后，通过 Google Cloud Vision 进行识别，然后自动在 repl.it 上运行。
+
 [Wiki.js](https://wiki.js.org/)   
 ![](https://www.wangbase.com/blogimg/asset/202007/bg2020072104.jpg)  
 架设个人 Wiki 的 Node.js 应用。
