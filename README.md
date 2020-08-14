@@ -177,6 +177,10 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[Wiki.js](https://wiki.js.org/)   
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020072104.jpg)  
+架设个人 Wiki 的 Node.js 应用。
+
 [EasyOCR](https://github.com/JaidedAI/EasyOCR)   
 ![](https://www.wangbase.com/blogimg/asset/202007/bg2020070801.jpg)    
 一个开源的 OCR 软件，支持识别40种语言，包括中日韩文字。
