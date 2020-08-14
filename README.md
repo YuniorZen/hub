@@ -20,6 +20,10 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[NightCafe](https://creator.nightcafe.studio/)    
+![](https://www.wangbase.com/blogimg/asset/202003/bg2020031507.jpg)   
+一个图片处理的在线工具，可以让普通照片变成世界名画。下图就是基于凡高的《星夜》生成的照片。
+
 [窗口交换](https://window-swap.com/)    
 该网站让世界各地的人上传他们窗外的镜像，一段5到10分钟的视频。其他用户就可以在网站上随机看到别人的窗外。
 
