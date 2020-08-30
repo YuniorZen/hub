@@ -453,6 +453,9 @@ React Native 可以写桌面应用了，不必使用 Electron 了。有人写了
 
 
 ## 后端 <a name="backend"></a>
+[script-httpd](https://github.com/beefsack/script-httpd/)    
+这个程序可以将任何的命令行程序，变成网络服务。它提供一个网络接口，收到 HTTP 请求后，启动容器环境执行命令行程序，然后返回结果。
+
 [NGINX Config](https://www.digitalocean.com/community/tools/nginx)    
 Nginx 的图形配置界面，点几下鼠标，自动生成配置文件，可以上传到服务器。
   
