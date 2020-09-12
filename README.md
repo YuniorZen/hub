@@ -185,6 +185,10 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[hackernews-daily](https://github.com/headllines/hackernews-daily)   
+![](https://www.wangbase.com/blogimg/asset/202009/bg2020090207.jpg)   
+订阅 Hacker News 每日排名最高的10条新闻。具体方法是，通过 GitHub Actions 定时执行脚本，获取帖子，记录到了项目的 issue 里，用户通过 watch GitHub 仓库或者 RSS 订阅。
+
 [snapcode](https://github.com/sergeichestakov/snapcode)    
 ![](https://www.wangbase.com/blogimg/asset/202008/bg2020080501.jpg)   
 一个很有创意的玩具项目，对手写的代码拍照后，通过 Google Cloud Vision 进行识别，然后自动在 repl.it 上运行。
