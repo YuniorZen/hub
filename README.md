@@ -189,6 +189,10 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[real-live](https://github.com/parzulpan/real-live)   
+![](https://www.wangbase.com/blogimg/asset/202009/bg2020091505.jpg)    
+一个开源的直播聚合收看平台。采用 Qt 作为前端框架，后端用到 Requests、MySQL、Redis技术等，目前支持在该平台收看 36 个视频直播、59 个高清电视频道和 74 个广播电台。
+
 [Diffchecker](https://www.diffchecker.com/)   
 一个在线工具，可以检查文本、图片、PDF 之间的差异。
 
