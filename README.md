@@ -189,6 +189,9 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[Diffchecker](https://www.diffchecker.com/)   
+一个在线工具，可以检查文本、图片、PDF 之间的差异。
+
 [talk](https://github.com/vasanthv/talk)    
 一个开源的 Web 视频对话软件，把 URL 发给对方，就可以在浏览器进行视频对话，不需要下载和注册。
 
