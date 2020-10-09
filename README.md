@@ -601,6 +601,9 @@ Python 语言写的短网址服务，前后端代码都包括。
 一个开源的自动驾驶玩具车，在小车上面绑了一个树莓派和摄像头。
 
 ## 免费教程资源 <a name="freebook"></a>
+[WebRTC 示例仓库](https://webrtc.github.io/samples/)    
+WebRTC 是浏览器点对点通信的 API，这个仓库给出了各种使用示例，覆盖了主要的使用场景。
+
 [webRTC 执行流程演示](https://nashaofu.github.io/webrtc-demo/)   
 这个网页演示和讲解，如何在无后端的情况下，通过 webRTC 建立双方的实时视频通话。
 
