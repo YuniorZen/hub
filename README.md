@@ -20,6 +20,10 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[Toonify](https://toonify.justinpinkney.com/)   
+![](https://www.wangbase.com/blogimg/asset/202009/bg2020091710.jpg)   
+一个在线工具，可以将真人头像变成卡通头像。
+
 [如何在浏览器里制作一个互动地球仪](https://stripe.com/blog/globe)    
 ![](https://www.wangbase.com/blogimg/asset/202009/bg2020090209.jpg)
 作者介绍如何使用 WebGL（通过 three.js）在浏览器里面做出一个可以互动的地球仪。   
