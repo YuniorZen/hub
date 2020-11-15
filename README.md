@@ -197,6 +197,9 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)    
+谷歌官方的网页性能的在线评分工具
+
 [FreePN](https://www.freepn.org/)   
 ![](https://www.wangbase.com/blogimg/asset/202010/bg2020101703.jpg)   
 一个点对点的 VPN 网络，通过用户共享带宽实现加密访问。
