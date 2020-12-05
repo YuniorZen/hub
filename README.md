@@ -557,6 +557,9 @@ Python 语言写的短网址服务，前后端代码都包括。
 
 
 ## 区块链 <a name="blockchain"></a>
+[Post-Pages-to-IPFS](https://github.com/SaltyLeo/Post-Pages-to-IPFS)   
+一个开源的在线工具，可以将文章发布到 IPFS 网络。一经发布就无法再删改，理论上可以永久储存。
+
 [从头构建一个 BitTorrent 客户端](https://blog.jse.li/posts/torrent/)（英文）   
 本文介绍 BitTorrent 点对点下载的原理，并给出 Go 语言的实现。
 
