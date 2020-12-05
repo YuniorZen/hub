@@ -2,6 +2,7 @@
 - 本仓库专门用来收集好用的工具/资源
 - 推荐好用的工具/资源，请[提交 Issue](https://github.com/yuniorzen/hub/issues) 
 - 非常感谢阮一峰老师的[科技爱好者周刊](https://github.com/ruanyf/weekly)提供的分享
+- 喜欢视频化信息的朋友，可关注视频号：敲代码的人，每周一期精分享！
 
 ```
 Created by Yunior  2014-6-14 17:37
