@@ -21,6 +21,10 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[Depix](https://github.com/beurtschipper/Depix)   
+![](https://www.wangbase.com/blogimg/asset/202012/bg2020120701.jpg)   
+发布图片时，很多人喜欢使用马赛克隐去敏感信息，这个工具可以将打马赛克的文字还原。所以，隐藏信息尽量不要使用马赛克，最好是覆盖掉。
+
 [Antipodes Map](https://www.antipodesmap.com/)   
 ![](https://www.wangbase.com/blogimg/asset/202012/bg2020120506.jpg)   
 这个地图工具可以显示任意地点在地球另一边的对应地点，比如在上海打一个洞穿越地心，就会来到阿根廷的恩特雷里奥斯省。
