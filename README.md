@@ -198,6 +198,9 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+三个通过搜索台词找影片素材的工具网站，[找台词](http://zhaotaici.cn/)、[33台词](http://33.agilestudio.cn/)、[电影名言](http://www.subzin.com/)
+
+
 [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)    
 谷歌官方的网页性能的在线评分工具
 
