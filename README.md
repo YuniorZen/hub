@@ -206,6 +206,10 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[Watermark Video](https://shotstack.io/demo/watermarker/)   
+![](https://www.wangbase.com/blogimg/asset/202012/bg2020120915.jpg)   
+一个开源的在线工具，可以为小视频加上水印图片。
+
 三个通过搜索台词找影片素材的工具网站，[找台词](http://zhaotaici.cn/)、[33台词](http://33.agilestudio.cn/)、[电影名言](http://www.subzin.com/)
 
 
