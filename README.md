@@ -21,6 +21,10 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[Antipodes Map](https://www.antipodesmap.com/)   
+![](https://www.wangbase.com/blogimg/asset/202012/bg2020120506.jpg)   
+这个地图工具可以显示任意地点在地球另一边的对应地点，比如在上海打一个洞穿越地心，就会来到阿根廷的恩特雷里奥斯省。
+
 [Profile Pic Maker](https://pfpmaker.com/)    
 ![](https://www.wangbase.com/blogimg/asset/202011/bg2020110112.jpg)    
 一个在线工具，上传人像照片，可以自动提取头像，生成大头照图片。
