@@ -206,6 +206,10 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[AI Picture Restorer](https://hotpot.ai/restore-picture)    
+![](https://www.wangbase.com/blogimg/asset/202012/bg2020121802.jpg)   
+一个在线工具，去除老照片的破损和折痕。
+
 [imgdiff](https://github.com/n7olkachev/imgdiff)   
 比较两张图片差异的命令行工具。
 
