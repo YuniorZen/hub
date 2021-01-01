@@ -206,6 +206,9 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[imgdiff](https://github.com/n7olkachev/imgdiff)   
+比较两张图片差异的命令行工具。
+
 [Watermark Video](https://shotstack.io/demo/watermarker/)   
 ![](https://www.wangbase.com/blogimg/asset/202012/bg2020120915.jpg)   
 一个开源的在线工具，可以为小视频加上水印图片。
