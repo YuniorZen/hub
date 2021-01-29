@@ -21,6 +21,10 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[openpilot](https://github.com/commaai/openpilot)   
+![](https://www.wangbase.com/blogimg/asset/202101/bg2021012214.jpg)   
+一个开源的辅助驾驶系统，可以自动车道居中和自适应巡航控制，已经支持85种车型。
+
 [Multiavatar](https://multiavatar.com/)    
 ![](https://www.wangbase.com/blogimg/asset/202101/bg2021011704.jpg)   
 一个在线工具，可以根据输入的文字，生成用户头像图片（ avatar）。
