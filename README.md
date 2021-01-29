@@ -206,6 +206,11 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[Thumbnail.AI](https://thumbnail.ai/)   
+![](https://www.wangbase.com/blogimg/asset/202101/bg2021011211.jpg)   
+这个在线服务可以为任意 URL，自动生成标题图片，便于在社交媒体引用文章时，提供缩略图。
+
+
 [AI Picture Restorer](https://hotpot.ai/restore-picture)    
 ![](https://www.wangbase.com/blogimg/asset/202012/bg2020121802.jpg)   
 一个在线工具，去除老照片的破损和折痕。
