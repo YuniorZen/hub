@@ -210,6 +210,10 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)   
+![](https://www.wangbase.com/blogimg/asset/202101/bg2021012002.jpg)   
+一个将网页存档的工具，可以将 HTML、CSS、JS、图片、媒体文件都保存下来，供日后查看。
+
 [Thumbnail.AI](https://thumbnail.ai/)   
 ![](https://www.wangbase.com/blogimg/asset/202101/bg2021011211.jpg)   
 这个在线服务可以为任意 URL，自动生成标题图片，便于在社交媒体引用文章时，提供缩略图。
