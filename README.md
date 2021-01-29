@@ -21,6 +21,10 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[Multiavatar](https://multiavatar.com/)    
+![](https://www.wangbase.com/blogimg/asset/202101/bg2021011704.jpg)   
+一个在线工具，可以根据输入的文字，生成用户头像图片（ avatar）。
+
 [Depix](https://github.com/beurtschipper/Depix)   
 ![](https://www.wangbase.com/blogimg/asset/202012/bg2020120701.jpg)   
 发布图片时，很多人喜欢使用马赛克隐去敏感信息，这个工具可以将打马赛克的文字还原。所以，隐藏信息尽量不要使用马赛克，最好是覆盖掉。
