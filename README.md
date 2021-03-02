@@ -21,6 +21,10 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[How Music Taste Evolved](https://pudding.cool/2017/03/music-history/index.html)  
+![](https://www.wangbase.com/blogimg/asset/202101/bg2021013105.jpg)    
+这个网站提供 1958 - 2016 每年美国最流行的五首歌曲，可以在线试听片段，了解美国大众音乐口味的变化。
+
 [openpilot](https://github.com/commaai/openpilot)   
 ![](https://www.wangbase.com/blogimg/asset/202101/bg2021012214.jpg)   
 一个开源的辅助驾驶系统，可以自动车道居中和自适应巡航控制，已经支持85种车型。
@@ -214,6 +218,9 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[Build your own x](https://github.com/danistefanovic/build-your-own-x)    
+这个仓库专门收集各种教程，教你如何自己实现各种软件，比如 Web 服务器、BT 下载客户端、Git、数据库等等。
+
 [Remark42](https://github.com/umputun/remark42)   
 ![](https://www.wangbase.com/blogimg/asset/202102/bg2021020710.jpg)   
 一个开源的、可以自己搭建的网站留言服务。
