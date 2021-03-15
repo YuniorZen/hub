@@ -221,6 +221,10 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[pcp](https://github.com/dennis-tra/pcp)   
+一个命令行的点对点文件传输软件，用法非常简单。一个命令上传文件，然后返回一个接收码，另一台电脑使用接收码接收文件。
+
+
 [视频的自然语言搜索](https://github.com/haltakov/natural-language-youtube-search)   
 ![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021305.jpg)   
 这一个概念性的开源软件，它会下载 Youtube 视频，提取每一帧进行物体识别，然后支持用户使用英语搜索，比如搜索“fire truck”（消防车）就会跳出上面的画面。
