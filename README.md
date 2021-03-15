@@ -218,6 +218,10 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[Beaker](https://beakerbrowser.com/)    
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021106.jpg)   
+一个实验性浏览器，提供点对点访问。你可以在浏览器里面架设自己的网站，然后让其他人访问它。
+
 [Build your own x](https://github.com/danistefanovic/build-your-own-x)    
 这个仓库专门收集各种教程，教你如何自己实现各种软件，比如 Web 服务器、BT 下载客户端、Git、数据库等等。
 
