@@ -21,6 +21,9 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[可视化频谱](https://borismus.github.io/spectrogram/)   
+一个网页工具，通过电脑麦克风捕捉各种声音，然后将它们的频率图显示在网页上。
+
 [How Music Taste Evolved](https://pudding.cool/2017/03/music-history/index.html)  
 ![](https://www.wangbase.com/blogimg/asset/202101/bg2021013105.jpg)    
 这个网站提供 1958 - 2016 每年美国最流行的五首歌曲，可以在线试听片段，了解美国大众音乐口味的变化。
