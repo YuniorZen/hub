@@ -225,6 +225,11 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[Frinkiac](https://frinkiac.com/)   
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021402.jpg)  
+这个网站收集了300万张动画片《辛普森一家》的截图，可以按照主题搜索。类似的网站还有 [Futurama 的图片搜索](https://morbotron.com/)。
+
+
 [Bing Wallpaper](https://github.com/niumoo/bing-wallpaper)   
 ![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030307.jpg)   
 这个项目使用 GitHub Actions，收集 Bing 搜索引擎每天的壁纸，提供下载，
