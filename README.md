@@ -21,6 +21,10 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[Deep Nostalgia](https://www.myheritage.com/deep-nostalgia)    
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021022702.jpg)   
+这个在线服务，只要上传一张老照片（需要免费注册），就能将里面的人物转成一段短视频，不仅提高了分辨率，而且有着各种脸部表情。
+
 [可视化频谱](https://borismus.github.io/spectrogram/)   
 一个网页工具，通过电脑麦克风捕捉各种声音，然后将它们的频率图显示在网页上。
 
