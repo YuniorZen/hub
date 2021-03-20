@@ -221,6 +221,10 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[Bing Wallpaper](https://github.com/niumoo/bing-wallpaper)   
+![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030307.jpg)   
+这个项目使用 GitHub Actions，收集 Bing 搜索引擎每天的壁纸，提供下载，
+
 [pcp](https://github.com/dennis-tra/pcp)   
 一个命令行的点对点文件传输软件，用法非常简单。一个命令上传文件，然后返回一个接收码，另一台电脑使用接收码接收文件。
 
