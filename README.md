@@ -229,6 +229,10 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[Clone Wars](https://github.com/GorvGoyl/Clone-Wars)   
+![](https://cdn.beekka.com/blogimg/asset/202103/bg2021031003.jpg)   
+该仓库收集热门网站的开源实现，比如 Airbnb、Amazon、Instagram、Netflix、Tiktok、Spotify 等，已经有70多个项目了。
+
 [Buzzing](https://www.buzzing.cc/)   
 ![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030706.jpg)   
 该网站汇集了国外社交媒体里的热门讨论，并且标题都自动翻译成了中文。
