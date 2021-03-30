@@ -21,6 +21,10 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[地球史视频](https://www.youtube.com/c/HistoryoftheEarth/videos)   
+![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030805.jpg)     
+一个原创科普视频的 Youtube 频道，从地球诞生开始，一段一段介绍地球的历史。
+
 [低地轨道可视化](https://platform.leolabs.space/visualization)   
 ![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030202.jpg)   
 这个可视化作品，可以让大家感受一下地球低轨道太空的实际状态，看看有多少太空垃圾。
