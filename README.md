@@ -21,6 +21,10 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[低地轨道可视化](https://platform.leolabs.space/visualization)   
+![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030202.jpg)   
+这个可视化作品，可以让大家感受一下地球低轨道太空的实际状态，看看有多少太空垃圾。
+
 [Deep Nostalgia](https://www.myheritage.com/deep-nostalgia)    
 ![](https://cdn.beekka.com/blogimg/asset/202102/bg2021022702.jpg)   
 这个在线服务，只要上传一张老照片（需要免费注册），就能将里面的人物转成一段短视频，不仅提高了分辨率，而且有着各种脸部表情。
