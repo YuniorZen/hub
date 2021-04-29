@@ -21,6 +21,10 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[Google Earth Timelapse](https://earthengine.google.com/timelapse/)   
+![](https://cdn.beekka.com/blogimg/asset/202104/bg2021041801.jpg)   
+Google Earth 提供的卫星照片时间线功能，可以查看同一个地点从1984年至2020年的变化，目前官方提供了十几个地点。
+
 [地球史视频](https://www.youtube.com/c/HistoryoftheEarth/videos)   
 ![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030805.jpg)     
 一个原创科普视频的 Youtube 频道，从地球诞生开始，一段一段介绍地球的历史。
