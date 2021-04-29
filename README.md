@@ -237,6 +237,10 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[文本生成图表的在线工具](https://xosh.org/text-to-diagram/)    
+![](https://cdn.beekka.com/blogimg/asset/202104/bg2021041302.jpg)   
+这个网页收集各种从文本生成图表（text-to-diagram）的在线工具，一共有40多种。
+
 [Clone Wars](https://github.com/GorvGoyl/Clone-Wars)   
 ![](https://cdn.beekka.com/blogimg/asset/202103/bg2021031003.jpg)   
 该仓库收集热门网站的开源实现，比如 Airbnb、Amazon、Instagram、Netflix、Tiktok、Spotify 等，已经有70多个项目了。
