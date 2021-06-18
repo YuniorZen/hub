@@ -21,6 +21,9 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[像素化头像](https://pixel-me.tokyo/en/)   
+一个制作像素化的头像小工具，上传头像自动生成。  
+
 [Google Earth Timelapse](https://earthengine.google.com/timelapse/)   
 ![](https://cdn.beekka.com/blogimg/asset/202104/bg2021041801.jpg)   
 Google Earth 提供的卫星照片时间线功能，可以查看同一个地点从1984年至2020年的变化，目前官方提供了十几个地点。
