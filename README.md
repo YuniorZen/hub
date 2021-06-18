@@ -21,6 +21,9 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[表情短片](https://www.facecards.com/)   
+输入一段文字和录音，可以自动制作会说话的个性表情视频。
+
 [油画头像](https://ai-art.tokyo/en/)   
 一个制作油画风格的头像小工具，上传头像自动生成。   
 
