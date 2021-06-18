@@ -21,6 +21,9 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[油画头像](https://ai-art.tokyo/en/)   
+一个制作油画风格的头像小工具，上传头像自动生成。   
+
 [像素化头像](https://pixel-me.tokyo/en/)   
 一个制作像素化的头像小工具，上传头像自动生成。  
 
