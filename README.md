@@ -21,6 +21,21 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[近地轨道的卫星可视化网站](https://platform.leolabs.space/visualization)      
+一个可视化站点，可以让大家感受一下地球低轨道太空的实际状态，看看有多少太空垃圾。     
+
+[森林电台](https://www.tree.fm/)   
+可以在线倾听大自然的森林电台网站。      
+
+[在线录屏工具](https://www.recordcast.com/)   
+屏幕录制通常需要下载特定的录屏软件，注册甚至付费才能够使用。而这是一个免费且无须下载注册的在线屏幕录制工具。   
+
+[开放式摄像头的网站](https://www.skylinewebcams.com/)   
+在线观看开放式摄像头的网站,通过这个站点，让你足不出户就能欣赏到分布在世界各地的景点。   
+
+[照片一键生成卡通头像](https://toonme.com/)   
+一个把照片一键转换成卡通头像的工具网站。   
+
 [表情短片](https://www.facecards.com/)   
 输入一段文字和录音，可以自动制作会说话的个性表情视频。
 
