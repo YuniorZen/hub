@@ -264,6 +264,9 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[push-bot](https://github.com/tans/push-bot)     
+一个基于 wechaty 的微信推送机器人，可以用脚本向微信推送消息。  
+
 [文本生成图表的在线工具](https://xosh.org/text-to-diagram/)    
 ![](https://cdn.beekka.com/blogimg/asset/202104/bg2021041302.jpg)   
 这个网页收集各种从文本生成图表（text-to-diagram）的在线工具，一共有40多种。
