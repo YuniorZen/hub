@@ -264,6 +264,9 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[Pitch Deck Hunt](https://www.pitchdeckhunt.com/)     
+创业公司向投资者和用户介绍自己的 PPT，叫做 Pitch Deck。该网站收集了150多家著名公司早期的 Pitch Deck，可以用来当作模板。     
+
 [push-bot](https://github.com/tans/push-bot)     
 一个基于 wechaty 的微信推送机器人，可以用脚本向微信推送消息。  
 
