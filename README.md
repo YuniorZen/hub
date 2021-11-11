@@ -264,6 +264,9 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 
 ## 效率 <a name="good"></a>
+[read-aloud](https://github.com/ken107/read-aloud)
+开源的浏览器朗读插件，可以朗读整个网页或选定文本，支持40多种语言，包括中文。
+
 [Pitch Deck Hunt](https://www.pitchdeckhunt.com/)     
 创业公司向投资者和用户介绍自己的 PPT，叫做 Pitch Deck。该网站收集了150多家著名公司早期的 Pitch Deck，可以用来当作模板。     
 
