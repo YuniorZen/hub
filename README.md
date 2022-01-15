@@ -21,6 +21,10 @@ Created by Yunior  2014-6-14 17:37
 - [其它](#other)    
 
 ## 创意 <a name="idea"></a>
+[Emoji 搜索](https://translate.yandex.com/?lang=zh-emj&text=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C)   
+![](https://cdn.beekka.com/blogimg/asset/202112/bg2021120503.webp)   
+俄罗斯搜索引擎 Yandex 推出了一个在线翻译工具。有趣的是，里面有一项“文本翻译 Emoji”，可以输入词语，得到对应的 Emoji。
+
 [千亿像素看中国](http://www.bigpixel.cn/)      
 一个绝对硬核的网站，千亿像素看中国。在这个网站，你可以在线观看中国各大城市的高清全景图片。   
 
